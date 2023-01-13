@@ -12,9 +12,9 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        The Purpose of me is to help aspiring and establish to take their projects in the next level.
+      "Full Stack Development utilizing MongoDB, Express.js, React.js, and Node.js for building high-performance, scalable and dynamic web applications"
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com/'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://google.com/'}>Download Resume</Button>
     </LeftSection>
   </Section>
 );
